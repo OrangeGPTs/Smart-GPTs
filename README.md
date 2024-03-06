@@ -3,7 +3,7 @@
 
 ###### 持续更新中，欢迎共同编辑完善本项目~
 
-# 推荐一些智慧好玩的GPTs
+# 推荐一些好玩的GPTs
 |GPTs类别|GPTs名称|GPTs描述|GPTs语言版本|GPTs名称|
 |---|---|---|--|---|
 |起名|AI八字起名|通过八字五行起中文名|中文|[AI八字起名](https://chat.openai.com/g/g-mmuv5tfJ5-aiba-zi-qi-ming)|
